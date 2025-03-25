@@ -24,8 +24,10 @@ This repository contains all my Machine Learning (ML) projects, including their 
 ## 📂 Project List
 | Project Name | Description | Dataset |
 |-------------|------------|---------|
-| Project 1 | Brief description | Link or file |
-| Project 2 | Brief description | Link or file |
+| first model using decison tree | House price prediction  using descision trees | 'first model using decison tree/melb_data.csv' |
+| Random Forest  | Practicing Random Forest   | 'random forest/melb_data.csv' |
+| mean absolute error  | Practicing Mean absolute error   | 'mean absolute error/melb_data.csv' |
+| Car Price prediction | Predicting car prices using both random forest and decision trees   | 'car price prediction using descision tree and random forest/carprice.csv' |
 | More... | More projects coming soon! | - |
 
 ## 🚀 Upcoming Updates
