@@ -21,16 +21,24 @@ This repository contains all my Machine Learning (ML) projects, including their 
    ```
 3. Follow the instructions in the respective README files inside each project folder.
 
-## 📂 Project List
+# 📂 Project List
+
+## 🟢 Basic Projects
+
 | Project Name | Description | Dataset |
 |-------------|------------|---------|
-Basic Projects/
-| House price prediction | House price prediction  using descision trees | 'house price prediction/melb_data.csv' |
-| Car Price prediction | Predicting car prices using both random forest and decision trees   | 'car price prediction/carprice.csv' |
-| Diabetes Prediction With two datasets| Predicting Either a person is Daibetic or not and testing it with another dataset | 'Diabetes_Prediction_with_two_dataset/Diabetes.csv' |
-Little Advanced/
-| CryptoPredictionModel | A very precise model that predicts crypto coin close value | 'CryptoPredictionModel/coin_Bitcoin,CryptoPredictionModel/coin_Ethereum,'|
-| More... | More projects coming soon! | - |
+| **House Price Prediction** | Predicting house prices using Decision Trees | `house price prediction/melb_data.csv` |
+| **Car Price Prediction** | Predicting car prices using both Random Forest and Decision Trees | `car price prediction/carprice.csv` |
+| **Diabetes Prediction (Two Datasets)** | Determining if a person is diabetic or not and validating with another dataset | `Diabetes_Prediction_with_two_dataset/Diabetes.csv` |
+
+## 🔵 Little Advanced
+
+| Project Name | Description | Dataset |
+|-------------|------------|---------|
+| **Crypto Prediction Model** | A highly precise model that predicts cryptocurrency closing values | `CryptoPredictionModel/coin_Bitcoin, CryptoPredictionModel/coin_Ethereum` |
+| **More...** | More projects coming soon! | - |
+
+
 
 ## 🚀 Upcoming Updates
 - New projects as I learn new ML concepts.
