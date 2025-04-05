@@ -35,10 +35,13 @@ This repository contains all my Machine Learning (ML) projects, including their 
 
 | Project Name | Description | Dataset |
 |-------------|------------|---------|
-| **Crypto Prediction Model** | A highly precise model that predicts cryptocurrency closing values | `CryptoPredictionModel/coin_Bitcoin, CryptoPredictionModel/coin_Ethereum` |
+| **Crypto Prediction Model** | A highly precise model that predicts cryptocurrency closing values | `CryptoPredictionModel/coin_Bitcoin, CryptoPredictionModel/coin_Ethereum.csv` |
 | **More...** | More projects coming soon! | - |
 
-
+## 🟡 NNprojects
+| Project Name | Description | Dataset |
+|-------------|------------|---------|
+| **Calorie Predictor** | A  precise model that predicts calories in cereals using nueral networks | `CaloriePredictor/calorie.csv` |
 
 ## 🚀 Upcoming Updates
 - New projects as I learn new ML concepts.
