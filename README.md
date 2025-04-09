@@ -13,7 +13,7 @@ This repository contains all my Machine Learning (ML) projects, including their 
 ## 🔧 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/ml-projects.git
+   git clone https://github.com/wali321/ML-projects.git
    ```
 2. Navigate to the project folder:
    ```sh
@@ -42,6 +42,7 @@ This repository contains all my Machine Learning (ML) projects, including their 
 | Project Name | Description | Dataset |
 |-------------|------------|---------|
 | **Calorie Predictor** | A  precise model that predicts calories in cereals using nueral networks | `CaloriePredictor/calorie.csv` |
+| **Hand Written Image Classifier** | A  precise model that predicts the hand written digits from Image | `In Keras itself` |
 
 ## 🚀 Upcoming Updates
 - New projects as I learn new ML concepts.
