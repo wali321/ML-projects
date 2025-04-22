@@ -1,0 +1,14 @@
+{
+    "users": [
+        {"id": 1, "liked_movies": ["The Matrix", "Inception", "Avengers"]},
+        {"id": 2, "liked_movies": ["The Matrix", "Titanic", "Avatar"]},
+        {"id": 3, "liked_movies": ["Inception", "Avatar", "Interstellar"]},
+        {"id": 4, "liked_movies": ["Avengers", "Iron Man", "Thor"]},
+        {"id": 5, "liked_movies": ["Titanic", "Avengers", "The Dark Knight"]},
+        {"id": 6, "liked_movies": ["The Matrix", "Interstellar", "Avatar"]},
+        {"id": 7, "liked_movies": ["The Dark Knight", "Titanic", "Avengers"]},
+        {"id": 8, "liked_movies": ["Inception", "Iron Man", "The Matrix"]},
+        {"id": 9, "liked_movies": ["Interstellar", "Titanic", "Avatar"]},
+        {"id": 10, "liked_movies": ["Avengers", "Iron Man", "Thor"]}
+    ]
+}
