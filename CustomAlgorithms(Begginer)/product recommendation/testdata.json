@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "purchased": ["Laptop", "Mouse", "Keyboard"] },
+    { "id": 2, "purchased": ["Mouse", "Keyboard", "Webcam"] },
+    { "id": 3, "purchased": ["Laptop", "Headphones", "Webcam"] },
+    { "id": 4, "purchased": ["Monitor", "Mouse", "Speakers"] },
+    { "id": 5, "purchased": ["Laptop", "Monitor", "Keyboard"] }
+  ]
+}
